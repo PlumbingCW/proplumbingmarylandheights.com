@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proplumbingmarylandheights.com/sitemap.xml
