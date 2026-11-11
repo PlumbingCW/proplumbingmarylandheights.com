@@ -268,3 +268,4 @@ main p,main li{overflow-wrap:break-word}
 .logo img{height:56px}
 @media(max-width:900px){.hero.has-hero:before{background:linear-gradient(180deg,rgba(78,22,32,.92) 0%,rgba(78,22,32,.86) 60%,rgba(78,22,32,.55) 100%)}}
 @media(max-width:620px){.logo img{height:42px}}
+.srclist{margin:12px 0 0;padding:0 0 0 20px}.srclist li{margin:6px 0;font-size:15px}.srclist a{overflow-wrap:anywhere}
